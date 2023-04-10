@@ -1,0 +1,11 @@
+.details>p>a:has(img){
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box_content_line{
+  width:100%
+}
+.content_box{
+  width:100%
+}
